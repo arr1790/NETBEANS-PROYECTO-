@@ -22,7 +22,7 @@ public class Asalariado extends Empleado {
     super(nombre, apellido, NIF); // Llamada al constructor de la clase Empleado
     this.salarioSemanal = salarioSemanal;
 	     }
-
+  //esto lo vuelvo hacer de nuevo para comentar
     /**
      *Es un metodo que permite obtener un valor , asi poder utilizar dicho valor en diferentes metodos
      *  Devuelve @return (salarioSemanal)

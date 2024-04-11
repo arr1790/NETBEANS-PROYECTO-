@@ -26,7 +26,7 @@ private String NIF ;// para el apellido del empleado
        this.NIF = NIF;
 		       
    }
-
+ //quiero añadir esto
     /**
      * Es un metodo que permite obtener un valor , asi poder utilizar dicho valor en diferentes metodos
      * que devuelve @return (nombre)
